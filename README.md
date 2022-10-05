@@ -58,8 +58,8 @@
 
 ## Задание 3
 Самостоятельно разработать сценарий воспроизведения звукового сопровождения в Unity в зависимости от изменения считанных данных в задании 2.
-![image](unity_regression1)
-![image](unity_regression2)
+![image](unity_regression1.png)
+![image](unity_regression2.png)
 
 ## Выводы
 
